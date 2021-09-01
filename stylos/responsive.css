@@ -1,0 +1,79 @@
+/* Landscape phones and down */
+
+@media (max-width: 480px) {
+    .home-copo {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .home-scroll {
+        display: none;
+    }
+    .back-formas img {
+        display: none;
+    }
+    .home .container {
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .home-texto h1 {
+        text-align: center;
+    }
+}
+
+
+/* Landscape phone to portrait tablet */
+
+@media (min-width: 400px) and (max-width: 647px) {
+    .home-copo {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .home .container {
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .home-texto h1 {
+        text-align: center;
+    }
+    .home-scroll {
+        display: none;
+    }
+    .back-formas img {
+        display: none;
+    }
+}
+
+
+/* Portrait tablet to landscape and desktop */
+
+@media (min-width: 647px) and (max-width: 979px) {
+    .home-copo {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .home .container {
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .home-texto h1 {
+        text-align: center;
+    }
+    .back-formas img {
+        display: none;
+    }
+}

@@ -8,6 +8,11 @@
 html,
 body {
     font-family: 'Nunito', 'sans-serif';
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
 
 
@@ -119,13 +124,13 @@ a:hover {
 }
 
 .back-formas .forma1 {
-    top: 12rem;
-    left: 1rem;
+    top: 13rem;
+    left: 10rem;
     z-index: -1;
 }
 
 .back-formas .forma2 {
-    top: 5rem;
-    right: 1rem;
+    top: 8rem;
+    right: 20rem;
     z-index: -1;
 }
