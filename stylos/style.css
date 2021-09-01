@@ -125,13 +125,13 @@ a:hover {
 }
 
 .back-formas .forma1 {
-    top: 13rem;
-    left: 10rem;
+    top: 12rem;
+    left: -6rem;
     z-index: -1;
 }
 
 .back-formas .forma2 {
-    top: 8rem;
-    right: 20rem;
+    top: 7rem;
+    right: 2rem;
     z-index: -1;
 }
