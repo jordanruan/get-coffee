@@ -113,3 +113,19 @@ a:hover {
 .texto-scroll {
     margin: 10px;
 }
+
+.back-formas img {
+    position: absolute;
+}
+
+.back-formas .forma1 {
+    top: 12rem;
+    left: 1rem;
+    z-index: -1;
+}
+
+.back-formas .forma2 {
+    top: 5rem;
+    right: 1rem;
+    z-index: -1;
+}
