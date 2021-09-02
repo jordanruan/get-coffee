@@ -119,19 +119,18 @@ a:hover {
     margin: 10px;
 }
 
-
-/* .back-formas img {
-    position: absolute;
-}
-
-.back-formas .forma1 {
-    top: 12rem;
-    left: -6rem;
+.forma1 {
+    position: fixed;
+    display: block;
+    top: 30%;
+    left: -6%;
     z-index: -1;
 }
 
-.back-formas .forma2 {
-    top: 7rem;
-    right: 2rem;
+.forma2 {
+    position: fixed;
+    display: block;
+    top: 12%;
+    right: 4%;
     z-index: -1;
-} */
+}
