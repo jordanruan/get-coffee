@@ -1,7 +1,7 @@
 <h1 align="center">Self Care 💼</h1>
 <h3 align="center">Landing page de uma cafeteria online.</h3>
 
-<p align="center"><a href="https://jordanruan.github.io/selfcare/" >Finalizado 🚀</a><p>
+<p align="center"><a href="https://jordanruan.github.io/get-coffee/" >Finalizado 🚀</a><p>
 
 ![banner](https://raw.githubusercontent.com/jordanruan/get-coffee/main/assets/mockup-desktop.png)
 
