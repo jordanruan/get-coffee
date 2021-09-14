@@ -1,4 +1,4 @@
-<h1 align="center">Self Care 💼</h1>
+<h1 align="center">Get Coffe ☕</h1>
 <h3 align="center">Landing page de uma cafeteria online.</h3>
 
 <p align="center"><a href="https://jordanruan.github.io/get-coffee/" >Finalizado 🚀</a><p>
